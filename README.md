@@ -1,4 +1,3 @@
- Hi there 👋
  ## Dev João Manuel
  <div  align="center"> 
    <div style="display: inline_block"><br>
