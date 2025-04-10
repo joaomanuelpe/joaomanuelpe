@@ -13,6 +13,13 @@ Dev João Manuel
      <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
      <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </div>
+    <div>
+     <h3 align="left">🔥   My Stats :</h3>
+    </div>
+ 
+ <div align="center">
+   <img src="https://streak-stats.demolab.com?user=joaomanuelpe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+ </div>
      
    
    <h1 align="center">Redes Sociais</h1>
